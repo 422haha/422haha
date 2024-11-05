@@ -17,6 +17,7 @@
 
   [![Tistory](https://img.shields.io/badge/Tistory-000000.svg?style=for-the-badge&logo=tistory&logoColor=white)](https://dev-miyeon.tistory.com/)
   [![velog](https://img.shields.io/badge/Velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@422haha/posts)
+  [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://mi-yeon.itch.io/)
 
   ## ⛏️ Skills and Tools ⛏️
 
