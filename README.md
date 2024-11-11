@@ -56,14 +56,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=422haha&theme=nord&show_icons=true" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=422haha&layout=compact&theme=nord" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=422haha&show_icons=true&theme=vue" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=422haha&layout=compact&theme=vue" height="165">
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=422haha&theme=nord)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=422haha&theme=vue)](https://git.io/streak-stats)
 
 </div>
 
